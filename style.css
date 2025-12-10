@@ -1,4 +1,3 @@
- /* Fullscreen preloader container */
 #preloader {
     position: fixed;
     width: 100%;
@@ -172,4 +171,5 @@ a{
     margin: 20px auto;
   }
 }
+
 
